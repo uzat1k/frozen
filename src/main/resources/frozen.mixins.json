@@ -1,0 +1,11 @@
+{
+  "required": true,
+  "package": "uzat1k.frozen.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins":[
+    "LevelChunkMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
