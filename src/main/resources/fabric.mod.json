@@ -16,10 +16,17 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
+<<<<<<< HEAD
 			"uzat1k.frozen.Frozen"
 		],
 		"client": [
 			"uzat1k.frozen.FrozenClient"
+=======
+			"name.modid.Frozen"
+		],
+		"client": [
+			"name.modid.FrozenClient"
+>>>>>>> ae121f8b1f27fe6a9d0b3addcca4ef680357397a
 		]
 	},
 	"mixins": [
