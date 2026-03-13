@@ -1,10 +1,6 @@
 {
   "required": true,
-<<<<<<< HEAD
   "package": "uzat1k.frozen.mixin",
-=======
-  "package": "name.modid.mixin",
->>>>>>> ae121f8b1f27fe6a9d0b3addcca4ef680357397a
   "compatibilityLevel": "JAVA_21",
   "mixins":[
     "LevelChunkMixin"
